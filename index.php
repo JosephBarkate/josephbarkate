@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<div id="site-wrapper">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -95,9 +96,9 @@
 			</div>
 		</div><!-- /container -->
 	</div><!-- /f -->
-	
 
 	<!-- ========== CAROUSEL SECTION ========== -->	
+	<div>
 	<section id="portfolio" name="portfolio"></section>
 	<div id="f">
 		<div class="container">
@@ -159,4 +160,5 @@
     <script src="assets/js/smoothscroll.js"></script>
 	<script src="assets/js/main.js"></script>
 </body>
+</div>
 </html>

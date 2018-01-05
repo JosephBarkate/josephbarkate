@@ -13,6 +13,8 @@ body {
     font-weight: 300;
     font-size: 16px;
     color: #555;
+	overflow: hidden;
+	height: 100%;
 
     -webkit-font-smoothing: antialiased;
     -webkit-overflow-scrolling: touch;
@@ -310,4 +312,7 @@ a:after {
 			transition: all .1s ease-in-out;
 }
 
-
+#site-wrapper {
+  height: 100%;
+  overflow: auto;
+}
