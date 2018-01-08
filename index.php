@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<div id="site-wrapper">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -37,7 +36,7 @@
 	<!-- Menu -->
 	<nav class="menu" id="theMenu">
 		<div class="menu-wrap">
-			<h1 class="logo"><a href="index.html#home">Minimal</a></h1>
+			<h1 class="logo"><a href="index.html#home">Joe Barkate</a></h1>
 			<i class="icon-remove menu-close"></i>
 			<a href="#home" class="smoothScroll">Home</a>
 			<a href="#about" class="smoothScroll">About</a>
@@ -160,5 +159,4 @@
     <script src="assets/js/smoothscroll.js"></script>
 	<script src="assets/js/main.js"></script>
 </body>
-</div>
 </html>
