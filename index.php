@@ -40,10 +40,10 @@
 		<div class="menu-wrap">
 			<h1 class="logo"><a href="index.html#home">Joe Barkate</a></h1>
 			<i class="icon-remove menu-close"></i>
-			<a href="#home" class="smoothScroll">Home</a>
-			<a href="#about" class="smoothScroll">About</a>
-			<a href="#portfolio" class="smoothScroll">Portfolio</a>
-			<a href="#contact" class="smoothScroll">Contact</a>
+			<a href="#home" class="smoothScroll" onclick="closeMenu()">Home</a>
+			<a href="#about" class="smoothScroll" onclick="closeMenu()">About</a>
+			<a href="#portfolio" class="smoothScroll" onclick="closeMenu()">Portfolio</a>
+			<a href="#contact" class="smoothScroll" onclick="closeMenu()">Contact</a>
 			<a href="https://www.linkedin.com/in/joseph-barkate/"><i class="icon-linkedin"></i></a>
 			<a href="https://github.com/JosephBarkate"><i class="icon-github"></i></a>
 			<a href="#"><i class="icon-bitcoin"></i></a>
@@ -161,5 +161,12 @@
     <script src="assets/js/smoothscroll.js"></script>
 	<script src="assets/js/main.js"></script>
 	<script src="assets/js/mobileswipe.js"></script>
+	<!-- Close menu script -->
+	<script type="text/JavaScript">
+		function closeMenu() {
+		$("#theMenu").toggleClass("menu-open");
+		}
+	</script>
+
 </body>
 </html>
