@@ -112,7 +112,7 @@
 						<!-- Wrapper for slides -->
 						<div class="carousel-inner">
 							<div class="item active centered">
-								<img class="img-responsive" src="assets/img/CharlesSchwab2.png" alt="">
+								<img class="img-responsive" src="assets/img/Schwab_gif_desktop.gif" alt="">
 							</div>
 							<div class="item centered">
 								<img class="img-responsive" src="assets/img/ResearchTube.gif" alt="">

@@ -271,6 +271,17 @@ a:after {
 	left: -200px;
 }
 
+.slideshow-container img {
+  max-width:100%;
+	width:100%;
+	position:fixed;
+	left:0;
+  }
+
+.carosel-button-space{
+	margin-top: 30;
+}
+
 .menu,
 .body-push {
 	-webkit-transition: all .3s ease;
