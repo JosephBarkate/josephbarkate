@@ -282,6 +282,11 @@ a:after {
 	margin-top: 30;
 }
 
+.img-proj{
+	padding-bottom: 15px;
+  	align-content: center;
+}
+
 .menu,
 .body-push {
 	-webkit-transition: all .3s ease;

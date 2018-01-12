@@ -112,13 +112,13 @@
 						<!-- Wrapper for slides -->
 						<div class="carousel-inner">
 							<div class="item active centered">
-								<img class="img-responsive" src="assets/img/Schwab_gif_desktop.gif" alt="">
+								<img class="img-responsive img-proj" src="assets/img/Schwab_gif_desktop.gif" alt="">
 							</div>
 							<div class="item centered">
-								<img class="img-responsive" src="assets/img/ResearchTube.gif" alt="">
+								<img class="img-responsive img-proj" src="assets/img/ResearchTube.gif" alt="">
 							</div>
 							<div class="item centered">
-								<img class="img-responsive" src="assets/img/c3.png" alt="">
+								<img class="img-responsive img-proj" src="assets/img/c3.png" alt="">
 							</div>
 						</div>
 						<br>
