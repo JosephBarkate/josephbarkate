@@ -287,6 +287,10 @@ a:after {
   	align-content: center;
 }
 
+.logo-size{
+	width: 80px;
+}
+
 .menu,
 .body-push {
 	-webkit-transition: all .3s ease;
