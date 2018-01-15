@@ -25,6 +25,8 @@
 	
     <link href='https://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
+	<link href='https://cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css' rel='stylesheet'>
+
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -98,6 +100,20 @@
 			</div>
 		</div><!-- /container -->
 	</div><!-- /f -->
+	<div id="f" class="center devicons-size">
+		<i class="devicons  devicons-git"></i>
+		<i class="devicons devicons-size devicons-bitbucket"></i>
+		<i class="devicons devicons-jira devicons-size"></i>
+		<i class="devicons devicons-javascript devicons-size"></i>
+		<i class="devicons devicons-angular devicons-size"></i>
+		<i class="devicons devicons-jquery_ui devicons-size"></i>
+		<i class="devicons devicons-nodejs devicons-size"></i>
+		<i class="devicons devicons-bootstrap devicons-size"></i>
+		<i class="devicons devicons-gulp devicons-size"></i>
+		<i class="devicons devicons-npm devicons-size"></i>
+		<i class="devicons devicons-linux devicons-size"></i>
+		
+	</div>
 
 	<!-- ========== CAROUSEL SECTION ========== -->	
 	<div>
@@ -106,7 +122,7 @@
 		<div class="container">
 			<div class="row centered">
 				<h3>SOME PROJECTS (Work in Progress)</h3>
-				<p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
+				<p class="centered"><i class="icon icon-circle dots"></i><i class="icon icon-circle dots"></i><i class="icon icon-circle dots"></i></p>
 				
 				<div class="col-lg-6 col-lg-offset-3">
 					<div id="carousel-example" class="carousel slide" data-ride="carousel">
@@ -150,6 +166,7 @@
 				</div>
 			</div>
 		</div>
+		
 	</div>
 
 	

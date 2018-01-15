@@ -138,12 +138,6 @@ a:after {
 	letter-spacing: 1px;	
 }
 
-#f i {
-	font-size: 8px;
-	color: #fff;
-    padding: 3px;
-}
-
 #f p {
 	font-size: 20px;
 	color: #f2f2f2;
@@ -152,7 +146,6 @@ a:after {
 #f img {
 	text-align: center;
 }
-
 
 /* MENU CONF*/
 
@@ -289,6 +282,16 @@ a:after {
 
 .logo-size{
 	width: 80px;
+}
+
+.devicons-size{
+	font-size: 50px;
+}
+
+.dots {
+	font-size: 8px;
+	color: #fff;
+    padding: 3px;
 }
 
 .menu,
