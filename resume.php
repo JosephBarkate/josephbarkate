@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="assets/img/favicon.ico">
+    <link rel="shortcut icon" href="https://raw.githubusercontent.com/JosephBarkate/josephbarkate/master/assets/img/favicon.ico">
 
     <title>Joseph Barkate</title>
 
@@ -61,7 +61,7 @@
 	<div id="headerwrap">
 		<div class="container">
 			<div class="logo">
-				<a href="index.html#home"><img class="logo-size" src="assets/img/jb_bw.png"></a>
+				<a href="index.html#home"><img class="logo-size" src="https://raw.githubusercontent.com/JosephBarkate/josephbarkate/master/assets/img/JB_bw.png"></a>
 			</div>
 			<br>
 			<div class="row">
