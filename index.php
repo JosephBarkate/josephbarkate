@@ -46,6 +46,7 @@
 			<a href="#about" class="smoothScroll" onclick="closeMenu()">About</a>
 			<a href="#portfolio" class="smoothScroll" onclick="closeMenu()">Portfolio</a>
 			<a href="#contact" class="smoothScroll" onclick="closeMenu()">Contact</a>
+			<a href="resume.html" onclick="closeMenu()">Resume</a>
 			<a href="https://www.linkedin.com/in/joseph-barkate/"><i class="icon-linkedin"></i></a>
 			<a href="https://github.com/JosephBarkate"><i class="icon-github"></i></a>
 			<a href="#"><i class="icon-bitcoin"></i></a>
@@ -86,7 +87,7 @@
 		<div class="container">
 			<div class="row">
 				<h3>ABOUT ME</h3>
-				<p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
+				<p class="centered"><i class="icon icon-circle dots"></i><i class="icon icon-circle dots"></i><i class="icon icon-circle dots"></i></p>
 				
 				<!-- INTRO INFORMATIO-->
 				<div class="col-lg-6 col-lg-offset-3">
@@ -112,7 +113,6 @@
 		<i class="devicons devicons-gulp devicons-size"></i>
 		<i class="devicons devicons-npm devicons-size"></i>
 		<i class="devicons devicons-linux devicons-size"></i>
-		
 	</div>
 
 	<!-- ========== CAROUSEL SECTION ========== -->	
@@ -157,7 +157,7 @@
 		<div class="container">
 			<div class="row">
 				<h3>CONTACT ME</h3>
-				<p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
+				<p class="centered"><i class="icon icon-circle dots"></i><i class="icon icon-circle dots"></i><i class="icon icon-circle dots"></i></p>
 				
 				<div class="col-lg-6 col-lg-offset-3">
 					<p>Austin, Texas<br/>United States<br/>(817) 791-6352</p>
