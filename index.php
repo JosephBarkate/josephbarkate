@@ -40,7 +40,7 @@
 	<!-- Menu -->
 	<nav class="menu" id="theMenu">
 		<div class="menu-wrap">
-			<h1 class="logo"><a href="index.html#home">Joe Barkate</a></h1>
+			<h1 class="logo"><a href="#home">Joe Barkate</a></h1>
 			<i class="icon-remove menu-close"></i>
 			<a href="#home" class="smoothScroll" onclick="closeMenu()">Home</a>
 			<a href="#about" class="smoothScroll" onclick="closeMenu()">About</a>
@@ -64,7 +64,7 @@
 	<div id="headerwrap">
 		<div class="container">
 			<div class="logo">
-				<a href="index.html#home"><img class="logo-size" src="https://raw.githubusercontent.com/JosephBarkate/josephbarkate/master/assets/img/JB_bw.png"></a>
+				<a href="#home"><img class="logo-size" src="https://raw.githubusercontent.com/JosephBarkate/josephbarkate/master/assets/img/JB_bw.png"></a>
 			</div>
 			<br>
 			<div class="row">
