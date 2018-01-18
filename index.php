@@ -69,7 +69,7 @@
 			</div>
 			<br>
 			<div class="row">
-				<h1><Welcome></Welcome></h1>
+				<h1>Welcome</h1>
 				<br>
 				<h3>Hello, I'm Joe Barkate. I love myself.</h3>
 				<br>
@@ -163,14 +163,14 @@
 				<div class="col-lg-6 col-lg-offset-3">
 					<p>Austin, Texas<br/>United States<br/>(817) 791-6352</p>
 					<p>JosephBarkate@gmail.com</p>
-					<p><button type="button" class="btn btn-warning"> <a href="resume.html">YEAH! CONTACT ME NOW!</a></button></p>
+					<p><button type="button" class="btn btn-warning" onclick="location.href='resume.html'">YEAH! CONTACT ME NOW!</button></p>
 				</div>
 			</div>
+			<figure>
+				<img class="tiedie img-sizing hover" src="https://i.imgur.com/y3YxULH.png" width="100px">
+			</figure>
 		</div>
-		
 	</div>
-
-	
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
@@ -180,6 +180,7 @@
     <script src="assets/js/smoothscroll.js"></script>
 	<script src="assets/js/main.js"></script>
 	<script src="assets/js/mobileswipe.js"></script>
+	<script src="assets/js/spotlight.js"></script>
 	<!-- Close menu script -->
 	<script type="text/JavaScript">
 		function closeMenu() {
