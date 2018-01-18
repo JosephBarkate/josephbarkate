@@ -69,7 +69,7 @@
 			</div>
 			<br>
 			<div class="row">
-				<h1>Welcome</h1>
+				<h1><Welcome></Welcome></h1>
 				<br>
 				<h3>Hello, I'm Joe Barkate. I love myself.</h3>
 				<br>
