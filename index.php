@@ -33,6 +33,7 @@
       <script src="assets/js/html5shiv.js"></script>
       <script src="assets/js/respond.min.js"></script>
     <![endif]-->
+
   </head>
 
   <body data-spy="scroll" data-offset="0" data-target="#theMenu">
@@ -64,11 +65,11 @@
 	<div id="headerwrap">
 		<div class="container">
 			<div class="logo">
-				<a href="#home"><img class="logo-size" src="https://raw.githubusercontent.com/JosephBarkate/josephbarkate/master/assets/img/JB_bw.png"></a>
+				<a href="index.php"><img class="logo-size" src="https://raw.githubusercontent.com/JosephBarkate/josephbarkate/master/assets/img/JB_bw.png"></a>
 			</div>
 			<br>
 			<div class="row">
-				<h1>Assuh</h1>
+				<h1>Welcome</h1>
 				<br>
 				<h3>Hello, I'm Joe Barkate. I love myself.</h3>
 				<br>
