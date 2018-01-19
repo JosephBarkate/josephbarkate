@@ -80,8 +80,6 @@
 		</div><!-- /container -->
 	</div><!-- /headerwrap -->
 	
-	
-	
 	<!-- ========== ABOUT SECTION ========== -->
 	<section id="about" name="about"></section>
 	<div id="f">
@@ -97,7 +95,6 @@
 					<p>I sometimes play with cryptocurrency and the block chain. Need an OG? </p>
 					<p>I'm available for dirty jobs &#x1F609. Contact me now.</p>
 					<p><button type="button" class="btn btn-warning">I NEED YOU JOE</button></p>
-					
 				</div>								
 			</div>
 		</div><!-- /container -->
@@ -133,7 +130,7 @@
 								<img class="img-responsive img-proj" src="assets/img/Schwab_gif_desktop.gif" alt="">
 							</div>
 							<div class="item centered">
-								<img class="img-responsive img-proj" src="assets/img/ResearchTube.gif" alt="">
+								<img class="img-responsive img-proj" src="assets/img/publication.PNG" alt="">
 							</div>
 							<div class="item centered">
 								<img class="img-responsive img-proj" src="assets/img/c3.png" alt="">

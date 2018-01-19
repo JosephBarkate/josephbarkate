@@ -315,6 +315,7 @@ a:after {
 figure{
     display:inline-block;
     position:relative;
+	border-radius:50%;
 }
 tiedie{
     vertical-align:middle;
@@ -337,6 +338,7 @@ figure::after{
     right:0;
     top:0;
     transition:opacity .25s linear 99999s;
+	border-radius:50%;
 }
 figure:hover::after{
     opacity:.75;
@@ -361,9 +363,7 @@ figure.paused::after{
 .model{
   position:relative;
   margin:0 auto;
-  width:236px;
-  height:322px;
-  background: url('https://i.imgur.com/HZjwkam.jpg');
+  background: url('https://i.imgur.com/MYquFY1.jpg');
   overflow:hidden;
 }
 .gray{
@@ -372,7 +372,7 @@ figure.paused::after{
   left:0;
   width:100px;
   height:100px;
-  background: url('https://i.imgur.com/2GmURoH.jpg');
+  background: url('https://i.imgur.com/VaKLVi6.jpg');
   border-radius:50%;
 }
 
