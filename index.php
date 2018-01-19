@@ -71,7 +71,7 @@
 			<div class="row">
 				<h1>Welcome</h1>
 				<br>
-				<h3>Hello, I'm Joe Barkate. I love myself.</h3>
+				<h3>Hello, I'm Joe Barkate. I love the beauty in simplicity.</h3>
 				<br>
 				<br>
 				<div class="col-lg-6 col-lg-offset-3">
@@ -90,28 +90,20 @@
 				
 				<!-- INTRO INFORMATIO-->
 				<div class="col-lg-6 col-lg-offset-3">
-					<p>A full time software engineer based in Austin, Texas. I have a firey passion for technology.</p>
+					<p>A full time software engineer based in Austin, Texas. I have a strong passion for technology.</p>
 					<p>My passion is developing creative solutions and algorithms for unique and complex tasks.</p>
-					<p>I sometimes play with cryptocurrency and the block chain. Need an OG? </p>
-					<p>I'm available for dirty jobs &#x1F609. Contact me now.</p>
-					<p><button type="button" class="btn btn-warning">I NEED YOU JOE</button></p>
+					<p>I sometimes play with cryptocurrency and the block chain. Looking for a creative solution provider? </p>
+					<p>Feel free to reach out to me now! &#x1F609.</p>
+					<p>
+						<div class="link-hover">
+							<a href="https://www.linkedin.com/in/joseph-barkate/"><i class="icon-linkedin link-spacing"></i></a>
+							<a href="mailto:josephbarkate@gmail.com"><i class="icon-envelope link-spacing"></i></a>
+						</div>
+					</p>
 				</div>								
 			</div>
 		</div><!-- /container -->
 	</div><!-- /f -->
-	<div id="f" class="center devicons-size">
-		<i class="devicons  devicons-git"></i>
-		<i class="devicons devicons-size devicons-bitbucket"></i>
-		<i class="devicons devicons-jira devicons-size"></i>
-		<i class="devicons devicons-javascript devicons-size"></i>
-		<i class="devicons devicons-angular devicons-size"></i>
-		<i class="devicons devicons-jquery_ui devicons-size"></i>
-		<i class="devicons devicons-nodejs devicons-size"></i>
-		<i class="devicons devicons-bootstrap devicons-size"></i>
-		<i class="devicons devicons-gulp devicons-size"></i>
-		<i class="devicons devicons-npm devicons-size"></i>
-		<i class="devicons devicons-linux devicons-size"></i>
-	</div>
 
 	<!-- ========== CAROUSEL SECTION ========== -->	
 	<div>
@@ -147,8 +139,21 @@
 				</div><!-- col-lg-8 -->
 			</div><!-- row -->
 		</div><!-- container -->
+		<div class="center">
+		<i class="devicons devicons-git"></i>
+		<i class="devicons devicons-size devicons-bitbucket"></i>
+		<i class="devicons devicons-jira devicons-size"></i>
+		<i class="devicons devicons-javascript devicons-size"></i>
+		<i class="devicons devicons-angular devicons-size"></i>
+		<i class="devicons devicons-jquery_ui devicons-size"></i>
+		<i class="devicons devicons-nodejs devicons-size"></i>
+		<i class="devicons devicons-bootstrap devicons-size"></i>
+		<i class="devicons devicons-gulp devicons-size"></i>
+		<i class="devicons devicons-npm devicons-size"></i>
+		<i class="devicons devicons-linux devicons-size"></i>
+		</div>
 	</div>	<!-- f -->
-
+	
 	<!-- ========== CONTACT SECTION ========== -->
 	<section id="contact" name="contact"></section>
 	<div id="f">
@@ -156,11 +161,10 @@
 			<div class="row">
 				<h3>CONTACT ME</h3>
 				<p class="centered"><i class="icon icon-circle dots"></i><i class="icon icon-circle dots"></i><i class="icon icon-circle dots"></i></p>
-				
 				<div class="col-lg-6 col-lg-offset-3">
 					<p>Austin, Texas<br/>United States<br/>(817) 791-6352</p>
 					<p>JosephBarkate@gmail.com</p>
-					<p><button type="button" class="btn btn-warning" onclick="location.href='resume.html'">YEAH! CONTACT ME NOW!</button></p>
+					<p><button type="button" class="btn btn-warning" onclick="location.href='resume.html'">Check out my Resume</button></p>
 				</div>
 			</div>
 			<figure>

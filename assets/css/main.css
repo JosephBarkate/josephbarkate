@@ -210,6 +210,13 @@ a:after {
 .menu a:active {
 	color: #ffffff;
 }
+.menu a:focus {
+	color: #ffffff;
+}
+
+.menu a:visited {
+	color: #ffffff;
+}
 
 .menu a > i {
 	float: left;
@@ -298,6 +305,18 @@ a:after {
 	background-repeat: no-repeat;
     background-position: 50%;
     border-radius: 50%;
+}
+
+.link-spacing {
+	margin: 10px;
+	font-size:30px;
+}
+
+.link-hover a:hover {
+	color: white;
+}
+.link-hover a:active {
+	color: white;
 }
 
 .menu,
