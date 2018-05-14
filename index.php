@@ -50,7 +50,7 @@
 			<a href="resume.html" onclick="closeMenu()">Resume</a>
 			<a href="https://www.linkedin.com/in/joseph-barkate/"><i class="icon-linkedin"></i></a>
 			<a href="https://github.com/JosephBarkate"><i class="icon-github"></i></a>
-			<a href="#"><i class="icon-bitcoin"></i></a>
+			<!--<a href="#"><i class="icon-bitcoin"></i></a>-->
 			<a href="mailto:josephbarkate@gmail.com"><i class="icon-envelope"></i></a>
 		</div>
 		
@@ -90,9 +90,9 @@
 				
 				<!-- INTRO INFORMATIO-->
 				<div class="col-lg-6 col-lg-offset-3">
-					<p>A full time software engineer based in Austin, Texas. I have a strong passion for technology.</p>
+					<p>A full time software engineer based in Dallas, Texas. I have a strong passion for technology.</p>
 					<p>My passion is developing creative solutions and algorithms for unique and complex tasks.</p>
-					<p>I sometimes play with cryptocurrency and the block chain. Looking for a creative solution provider? </p>
+					<!--<p>I sometimes play with cryptocurrency and the block chain. Looking for a creative solution provider? </p>-->
 					<p>Feel free to reach out to me now! &#x1F609.</p>
 					<p>
 						<div class="link-hover">
@@ -162,13 +162,13 @@
 				<h3>CONTACT ME</h3>
 				<p class="centered"><i class="icon icon-circle dots"></i><i class="icon icon-circle dots"></i><i class="icon icon-circle dots"></i></p>
 				<div class="col-lg-6 col-lg-offset-3">
-					<p>Austin, Texas<br/>United States<br/>(817) 791-6352</p>
+					<p>Dallas, Texas<br/>United States<br/>(817) 791-6352</p>
 					<p>JosephBarkate@gmail.com</p>
 					<p><button type="button" class="btn btn-warning" onclick="location.href='resume.html'">Check out my Resume</button></p>
 				</div>
 			</div>
 			<figure>
-				<img class="tiedie img-sizing hover" src="https://i.imgur.com/y3YxULH.png" width="100px">
+				<!--<img class="tiedie img-sizing hover" src="https://i.imgur.com/y3YxULH.png" width="100px">-->
 			</figure>
 		</div>
 	</div>
